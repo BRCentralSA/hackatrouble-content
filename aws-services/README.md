@@ -30,9 +30,11 @@ Serviços e ferramentas que podem te ajudar a desenvolver seu projeto na AWS, co
 
 - **Ferramentas e SDKs da AWS.**
     - https://aws.amazon.com/pt/getting-started/tools-sdks/?c=10&pt=11
-- **AWS Lambda.**
+
+- **Serverless**
     - O AWS Lambda permite que você execute código sem provisionar ou gerenciar servidores. Você paga apenas pelo tempo de computação consumido. - https://aws.amazon.com/pt/lambda/
     - Lambda para iniciates, como criar a sua primeira - https://www.youtube.com/watch?v=97q30JjEq9Y
+
 - **Machine Learning na AWS**
     - **Amazon SageMaker**, o Amazon SageMaker é um serviço totalmente gerenciado que fornece a todos os desenvolvedores e cientistas de dados a capacidade de criar, treinar e implantar modelos de machine learning (ML) rapidamente. O SageMaker remove o trabalho pesado de cada etapa do processo de machine learning para facilitar o desenvolvimento de modelos de alta qualidade.
         - Construir, Deployar e treinar seu modelo - https://aws.amazon.com/pt/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/
@@ -46,8 +48,16 @@ Serviços e ferramentas que podem te ajudar a desenvolver seu projeto na AWS, co
 - **Analitycs na AWS**
 
     - **Amazon Quicksight**, utilize o Quicksight para criar dashboards incriveis para a visualização dos seus dados.
-        - https://www.youtube.com/watch?v=x9RUtTzqpr0  
+        - https://www.youtube.com/watch?v=x9RUtTzqpr0 
+
     - **Athena**, Criando uma solução de análise serverless com a AWS - https://github.com/aws-samples/serverless-data-analytics
+
+- **Mobile**
+    - **AWS Mobile Services: Desenvolvendo o primeiro aplicativo móvel na AWS** - https://aws.amazon.com/pt/blogs/aws-brasil/aws-mobile-services-desenvolvendo-o-primeiro-aplicativo-movel-na-aws/
+
+    - **AWS Amplify** -  O AWS Amplify é uma plataforma de desenvolvimento para a criação de aplicativos móveis e da Web seguros e escaláveis - https://aws.amazon.com/pt/amplify/
+    
+    - **Criar um aplicativo React utilizando Amplify** - https://github.com/aws-samples/create-react-app-auth-amplify
 ---
 
 ### Tutoriais de 10 minutos
