@@ -28,7 +28,7 @@ Os desafios estão relacionados nos eixos temáticos, para desenvolver softwares
 
 Saiba mais em [Desafios](https://www.hackatrouble.com.br/desafios)
 
-## Agenda
+## Agenda e cronograma de Office Hours e monitoria Ativa
 
 ```
 Etapa de Ideação - 18/4 às 6h e término em 18/4 às 18h.
@@ -37,10 +37,21 @@ Desenvolvimento da Solução - 19/4 às 6h e término em 19/4 às 18h.
 Encerramento do HackaTrouble - 19/4 às 18h e término em 19/4 às 22h.
 ```
 
-> Mais informações sobre a agenda podem ser achadas em [Agenda](https://www.hackatrouble.com.br/regulamento)
+> Mais informações sobre a agenda oficial podem ser achadas em [Agenda](https://www.hackatrouble.com.br/regulamento)
+
+### Office hours e Monitoria Ativa cronograma
+
+| Data  | Horário       | Atividade       | Descrição                                                                                        | Salas do Chime/Responsáveis                                                       |
+|-------|---------------|-----------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| 18/04 | 8:00 - 11:00  | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. |                      lucasdu@, claicko@, vinicsil@,gubarbos@                      |
+| 18/04 | 12:00 - 15:00 | Monitoria Ativa | Os staffs entrarão nas salas do Chime de cada grupo e irão tirar dúvidas dos times.              | ernsanto@, ctelles@, yoshimc@, jseike@, amandaqt@, vinicsil@, tgpadua@, gubarbos@ |
+| 18/04 | 18:00 - 21:00 | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. |                      amandaqt@, mridis@, lucasdu@, martinig@                      |
+| 18/04 | 21:00 - 23:00 | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. |                           ernsanto@, martinig@, lucasdu@                          |
+| 19/04 | 8:00 - 11:00  | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. |                      ctelles@, gubarbos@, jseike@, martinig@                      |
+| 19/04 | 12:00 - 14:00 | Monitoria Ativa | Os staffs entrarão nas salas do Chime de cada grupo e irão tirar dúvidas dos times.              | martinig@, lucasdu@, jseike@, gubarbos@, ctelles@, amandaqt@, ernsanto@, yochimc@ |
+| 19/04 | 15:00 - 18:00 | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. |                     martinig@, lucasdu@, vinicsil@, ernsanto@                     |
 
 ## O que mais você vai achar neste repositório
----
 
 ### Como realizar a criação da sua conta no Amazon Chime.
 
@@ -56,11 +67,11 @@ A ideia deste repositório é prover recursos para te auxiliar no desenvolviment
 └── utils
 ```
 
-**aws-services** - Material de apoio sobre os principais serviços da AWS (Core Services)
+[**aws-services**](aws-services/) - Material de apoio sobre os principais serviços da AWS (Core Services)
 
-**examples** - Materiais e demos prontas cradas pela AWS para que você possa se inspirar e ter ideias para sua solução
+[**examples**](examples/) - Materiais e demos prontas cradas pela AWS para que você possa se inspirar e ter ideias para sua solução
 
-**utils** - Materiais e links úteis que podem te ajudar a desenvolver sua ideia.
+[**utils**](utils/) - Materiais e links úteis que podem te ajudar a desenvolver sua ideia.
 
 ---
 
