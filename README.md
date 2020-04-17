@@ -40,6 +40,13 @@ Encerramento do HackaTrouble - 19/4 às 18h e término em 19/4 às 22h.
 > Mais informações sobre a agenda podem ser achadas em [Agenda](https://www.hackatrouble.com.br/regulamento)
 
 ## O que mais você vai achar neste repositório
+---
+
+### Como realizar a criação da sua conta no Amazon Chime.
+
+Neste Hackathon utilizaremos o Amazon Chime como ferramenta de comunicação entre os times, você pode achar um tutorial de como criar sua conta [aqui](aws-services/amazon-chime).
+
+### Como o repositório é dividido
 
 A ideia deste repositório é prover recursos para te auxiliar no desenvolvimento dos desafios do Hackatrouble, como materiais, links, demos, apresentações que podem te ajudar na sua jornada no Hackatrouble
 
