@@ -8,7 +8,7 @@ Este repositório tem o foco em prover recursos necessários para auxiliar no de
 
 ## Sobre o Hackatrouble
 
-Objetivo do HackaTrouble - encontrar soluções inovadoras, passíveis de implantação a curto prazo (em 4 semanas), para atender os diversos desafios da sociedade, decorrentes das restrições e dificuldades com a disseminação do coronavirus Covid-19 no Brasil. 
+Objetivo do HackaTrouble - encontrar soluções inovadoras, passíveis de implantação a curto prazo (em 4 semanas), para atender os diversos desafios da sociedade, decorrentes das restrições e dificuldades com a disseminação do coronavirus Covid-19 no Brasil.
 
 Para mais informações sobre os desafios e regulamentos visite a página oficial do [Hackatrouble](https://www.hackatrouble.com.br/)
 
@@ -41,15 +41,15 @@ Encerramento do HackaTrouble - 19/4 às 18h e término em 19/4 às 22h.
 
 ### Office hours e Monitoria Ativa cronograma
 
-| Data  | Horário       | Atividade       | Descrição                                                                                        | Salas do Chime/Responsáveis                                                       |
-|-------|---------------|-----------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| 18/04 | 8:00 - 11:00  | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. |                      lucasdu@, claicko@, vinicsil@,gubarbos@                      |
-| 18/04 | 12:00 - 15:00 | Monitoria Ativa | Os staffs entrarão nas salas do Chime de cada grupo e irão tirar dúvidas dos times.              | ernsanto@, ctelles@, yoshimc@, jseike@, amandaqt@, vinicsil@, tgpadua@, gubarbos@ |
-| 18/04 | 18:00 - 21:00 | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. |                      amandaqt@, mridis@, lucasdu@, martinig@                      |
-| 18/04 | 21:00 - 23:00 | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. |                           ernsanto@, martinig@, lucasdu@                          |
-| 19/04 | 8:00 - 11:00  | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. |                      ctelles@, gubarbos@, jseike@, martinig@                      |
-| 19/04 | 12:00 - 14:00 | Monitoria Ativa | Os staffs entrarão nas salas do Chime de cada grupo e irão tirar dúvidas dos times.              | martinig@, lucasdu@, jseike@, gubarbos@, ctelles@, amandaqt@, ernsanto@, yochimc@ |
-| 19/04 | 15:00 - 18:00 | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. |                     martinig@, lucasdu@, vinicsil@, ernsanto@                     |
+| Data  | Horário       | Atividade       | Descrição                                                                                        | Responsáveis e Salas do Chime                                                                                                                              |
+| ----- | ------------- | --------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 18/04 | 8:00 - 11:00  | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. | Sala 1 - https://chime.aws/1037102210, Sala 2 - https://chime.aws/3336961424, Sala 3 - https://chime.aws/5363622808, Sala 4 - https://chime.aws/6141261574 |
+| 18/04 | 12:00 - 15:00 | Monitoria Ativa | Os staffs entrarão nas salas do Chime de cada grupo e irão tirar dúvidas dos times.              | Tito (ernsanto@), Charles (ctelles@), Chiba (yoshimc@), João (jseike@), Amanda (amandaqt@), Vini (vinicsil@), Thiago (tgpadua@), Cabelo (gubarbos@)        |
+| 18/04 | 18:00 - 21:00 | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. | Sala 1 - https://chime.aws/1037102210, Sala 2 -,https://chime.aws/3336961424, Sala 3 - https://chime.aws/5363622808, Sala 4 - https://chime.aws/6141261574 |
+| 18/04 | 21:00 - 23:00 | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. | Sala 1 - https://chime.aws/1037102210, Sala 2 -,https://chime.aws/3336961424, Sala 3 - https://chime.aws/5363622808                                        |
+| 19/04 | 8:00 - 11:00  | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. | Sala 1 - https://chime.aws/1037102210, Sala 2 -,https://chime.aws/3336961424, Sala 3 - https://chime.aws/5363622808, Sala 4 - https://chime.aws/6141261574 |
+| 19/04 | 12:00 - 14:00 | Monitoria Ativa | Os staffs entrarão nas salas do Chime de cada grupo e irão tirar dúvidas dos times.              | Gabriel (martinig@), Lucas (lucasdu@), João (jseike@), Cabelo (gubarbos@), Charles (ctelles@), Amanda (amandaqt@), Tito (ernsanto@), Chiba (yochimc@)      |
+| 19/04 | 15:00 - 18:00 | Office Hours    | Salas do chime liberadas para os grupos entrarem de maneira self-service,e tirarem suas dúvidas. | Sala 1 - https://chime.aws/1037102210, Sala 2 -,https://chime.aws/3336961424, Sala 3 - https://chime.aws/5363622808, Sala 4 - https://chime.aws/6141261574 |
 
 ## O que mais você vai achar neste repositório
 
