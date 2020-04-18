@@ -6,7 +6,10 @@ Materiais de apoio referente aos serviços da AWS que podem ser utilizados na im
 - Conceitos básicos da AWS - https://aws.amazon.com/pt/getting-started/?nc2=h_ql_le_gs
 - Cloud Computing na AWS - https://aws.amazon.com/pt/what-is-aws/?nc1=h_ls
     - O que é computação em nuvem - https://www.youtube.com/watch?v=OFIVUTmc2cs 
- 
+
+- Arquitetura na AWS - https://aws.amazon.com/pt/architecture
+- Bons exemplos de "QuickStart" - https://aws.amazon.com/pt/quickstart
+
  ### Core Services
 
 Abaixo encontram-se links sobre os Core Services da AWS que podem te ajudar a desenvolver sua solução dentro da nuvem.
@@ -26,7 +29,7 @@ Abaixo encontram-se links sobre os Core Services da AWS que podem te ajudar a de
 
 ---
 
-### Outros Servicços
+### Outros Serviços
 
 Serviços e ferramentas que podem te ajudar a desenvolver seu projeto na AWS, como por exemplo serviços de Análises, Desnevolvimento, Machine Learning, IoT.
 
