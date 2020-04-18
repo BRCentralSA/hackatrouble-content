@@ -21,6 +21,8 @@ Abaixo encontram-se links sobre os Core Services da AWS que podem te ajudar a de
     - https://aws.amazon.com/pt/vpc/
 - **O Amazon Route 53 é um web service Domain Name System (DNS)** na nuvem altamente disponível e escalável.
     - https://aws.amazon.com/pt/route53/
+- **Amazon Identity and Access Management (IAM)
+    - https://docs.aws.amazon.com/IAM/latest/UserGuide/getting-started_create-admin-group.html
 
 ---
 
