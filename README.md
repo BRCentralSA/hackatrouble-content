@@ -39,6 +39,15 @@ Encerramento do HackaTrouble - 19/4 às 18h e término em 19/4 às 22h.
 
 > Mais informações sobre a agenda oficial podem ser achadas em [Agenda](https://www.hackatrouble.com.br/regulamento)
 
+## Acesso às Accounts AWS
+
+Cada lider de grupo receberá o acesso à uma account AWS, para que esta seja utilizada por seu time.
+Este acesso será realizado através da plataforma [Event Engine](https://dashboard.eventengine.run/login)
+Foi enviado um e-mail para cada um dos lideres, com o hashcode a ser utilizado no acesso.
+O acesso aos recursos AWS, desde que efetuado via Event Engine não incorrerá em custos.
+
+**OBS para os Lideres:** Lider, o hashcode gerado para você e seu time é para ser utilizado somente por seu grupo. Não deve ser compartilhado com outros grupos.
+
 ### Office hours e Monitoria Ativa cronograma
 
 | Data  | Horário       | Atividade       | Descrição                                                                                        | Responsáveis e Salas do Chime                                                                                                                              |
