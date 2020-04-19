@@ -9,6 +9,7 @@ Materiais de apoio referente aos serviços da AWS que podem ser utilizados na im
 
 - Arquitetura na AWS - https://aws.amazon.com/pt/architecture
 - Bons exemplos de "QuickStart" - https://aws.amazon.com/pt/quickstart
+- Ótimo ponto de referência, sobre desenvolvimento na AWS - https://aws.amazon.com/pt/developer/ 
 
  ### Core Services
 
